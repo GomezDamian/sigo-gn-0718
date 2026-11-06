@@ -1,0 +1,2 @@
+Damián Gómez Pérez - 2025600718
+SIGO-GN — Sistema Integral de Gestión Operativa. Proyecto de la materia Sistemas Operativos.
